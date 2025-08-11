@@ -8,7 +8,7 @@ tags:
   - update
 ---
 
-This is a simple python hello world program:
+This is a simple python print hello world program:
 
 ```python
 print("Hello World")
